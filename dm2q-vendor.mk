@@ -40,6 +40,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/dm2q/proprietary/vendor/etc/sensors/config/sns_gyro_cal.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_gyro_cal.json \
     vendor/samsung/dm2q/proprietary/vendor/etc/situation_audio_policy_volumes_sec.xml:$(TARGET_COPY_OUT_VENDOR)/etc/situation_audio_policy_volumes_sec.xml \
     vendor/samsung/dm2q/proprietary/vendor/etc/usecaseKvManager.xml:$(TARGET_COPY_OUT_VENDOR)/etc/usecaseKvManager.xml \
+    vendor/samsung/dm2q/proprietary/vendor/firmware/CAMERA_ICP-kor.b20:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP-kor.b20 \
+    vendor/samsung/dm2q/proprietary/vendor/firmware/CAMERA_ICP-kor.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP-kor.mbn \
+    vendor/samsung/dm2q/proprietary/vendor/firmware/CAMERA_ICP-kor.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP-kor.mdt \
     vendor/samsung/dm2q/proprietary/vendor/firmware/CAMERA_ICP.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.b00 \
     vendor/samsung/dm2q/proprietary/vendor/firmware/CAMERA_ICP.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.b01 \
     vendor/samsung/dm2q/proprietary/vendor/firmware/CAMERA_ICP.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.b02 \
@@ -69,6 +72,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/dm2q/proprietary/vendor/firmware/Data.msc:$(TARGET_COPY_OUT_VENDOR)/firmware/Data.msc \
     vendor/samsung/dm2q/proprietary/vendor/firmware/SoundBoosterParam.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/SoundBoosterParam.bin \
     vendor/samsung/dm2q/proprietary/vendor/firmware/a740_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a740_sqe.fw \
+    vendor/samsung/dm2q/proprietary/vendor/firmware/a740_zap-kor.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/a740_zap-kor.b02 \
+    vendor/samsung/dm2q/proprietary/vendor/firmware/a740_zap-kor.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/a740_zap-kor.mbn \
+    vendor/samsung/dm2q/proprietary/vendor/firmware/a740_zap-kor.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/a740_zap-kor.mdt \
     vendor/samsung/dm2q/proprietary/vendor/firmware/a740_zap.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/a740_zap.b00 \
     vendor/samsung/dm2q/proprietary/vendor/firmware/a740_zap.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/a740_zap.b01 \
     vendor/samsung/dm2q/proprietary/vendor/firmware/a740_zap.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/a740_zap.b02 \
@@ -95,6 +101,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/dm2q/proprietary/vendor/firmware/cs40l26.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/cs40l26.bin \
     vendor/samsung/dm2q/proprietary/vendor/firmware/cs40l26.wmfw:$(TARGET_COPY_OUT_VENDOR)/firmware/cs40l26.wmfw \
     vendor/samsung/dm2q/proprietary/vendor/firmware/dax_param.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/dax_param.bin \
+    vendor/samsung/dm2q/proprietary/vendor/firmware/evass-kor.b19:$(TARGET_COPY_OUT_VENDOR)/firmware/evass-kor.b19 \
+    vendor/samsung/dm2q/proprietary/vendor/firmware/evass-kor.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/evass-kor.mbn \
+    vendor/samsung/dm2q/proprietary/vendor/firmware/evass-kor.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/evass-kor.mdt \
     vendor/samsung/dm2q/proprietary/vendor/firmware/evass.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/evass.b00 \
     vendor/samsung/dm2q/proprietary/vendor/firmware/evass.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/evass.b01 \
     vendor/samsung/dm2q/proprietary/vendor/firmware/evass.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/evass.b02 \
@@ -153,6 +162,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/dm2q/proprietary/vendor/firmware/tsp_stm/fts2ba61y_dm2q.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/tsp_stm/fts2ba61y_dm2q.bin \
     vendor/samsung/dm2q/proprietary/vendor/firmware/vpu20_4v.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/vpu20_4v.mbn \
     vendor/samsung/dm2q/proprietary/vendor/firmware/vpu20_4v_unsigned.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/vpu20_4v_unsigned.mbn \
+    vendor/samsung/dm2q/proprietary/vendor/firmware/vpu30_4v-kor.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/vpu30_4v-kor.mbn \
     vendor/samsung/dm2q/proprietary/vendor/firmware/vpu30_4v.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/vpu30_4v.mbn \
     vendor/samsung/dm2q/proprietary/vendor/firmware/vpu30_4v_16mb.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/vpu30_4v_16mb.mbn \
     vendor/samsung/dm2q/proprietary/vendor/firmware/vpu30_4v_16mb_unsigned.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/vpu30_4v_16mb_unsigned.mbn \
